@@ -1,7 +1,7 @@
 # accounts-ui packaged for Angular 2
 Package contains one Angular 2 component-wrapper exported via "meteor-accounts-ui" System.js module.
 
-This component simply wraps around "accounts-ui" package's _loginButtons_ view and recognizes one "align" attribute to support same name property of _loginButtons_ view (read [more](https://atmospherejs.com/meteor/accounts-ui)).
+This component simply wraps around "accounts-ui" package's _loginButtons_ view and recognizes one "align" attribute to support same name property of _loginButtons_ view. For more information about "accounts-ui", please read original [docs](https://atmospherejs.com/meteor/accounts-ui)).
 
 Component import line:
 
