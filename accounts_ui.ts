@@ -18,7 +18,7 @@ export class AccountsUI implements OnDestroy {
       elementRef.nativeElement);
   }
 
-  onDestroy() {
+  ngOnDestroy() {
     Blaze.remove(this._view);
   }
 }
