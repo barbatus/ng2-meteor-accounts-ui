@@ -8,7 +8,7 @@ For more information about "accounts-ui", please read [docs](https://atmospherej
 
 Component import line:
 
-    import {AccountUI} from 'meteor-accounts-ui'
+    import {AccountsUI} from 'meteor-accounts-ui'
   
 Markup usage line:
   
